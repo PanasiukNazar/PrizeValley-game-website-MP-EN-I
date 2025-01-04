@@ -1463,6 +1463,10 @@ a:hover {
     margin: 15px 0;
 }
 
+.post-item img {
+    min-height: 380px;
+}
+
 /* 8.2.1 Blog Details */
 .blog-details h3 {
     font-size: 30px;
